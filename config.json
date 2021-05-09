@@ -1,5 +1,5 @@
 {
-    "token": "ODI2ODU0OTY4ODk1MDc4NDMx.YGSisg.TXy4Zc9zQeuQUM27kB8cEzSOBBI",
+    client.login(process.env.TOKEN),
     "prefix": "+",
     "speudo": "kretz#1343"
 }
