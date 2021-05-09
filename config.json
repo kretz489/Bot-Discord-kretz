@@ -1,5 +1,5 @@
 {
-    client.login(process.env.TOKEN),
+    client.login(process.env.TOKEN);
     "prefix": "+",
     "speudo": "kretz#1343"
 }
